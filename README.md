@@ -26,7 +26,7 @@ DB_PW='XXX'
 
 ## Repository
 
-  - [Project Repo](https://github.com/Matthewwalker333/e-commerce-back-end)
+  - [Project Repo](https://github.com/Matthewwalker333/model_view_controller_tech_blog)
 
 ## Questions
 *For any additional information find me at* 
