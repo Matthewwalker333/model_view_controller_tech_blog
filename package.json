@@ -1,5 +1,5 @@
 {
-    "name": "model_view_controller_tech_blog",
+    "name": "mvc-tech-blog",
     "version": "1.0.0",
     "description": "Model-View-Controller (MVC) Tech Blog",
     "main": "server.js",
